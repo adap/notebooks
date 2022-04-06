@@ -2,7 +2,7 @@
 name = "notebooks"
 version = "0.1.0"
 description = ""
-authors = ["Taner Topal <taner@adap.com>"]
+authors = ["Daniel Beutel <daniel@adap.com>", "Maria Börner <maria@adap.com>", "Taner Topal <taner@adap.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
