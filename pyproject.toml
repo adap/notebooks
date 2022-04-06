@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "avl-notebooks"
+name = "notebooks"
 version = "0.1.0"
 description = ""
 authors = ["Taner Topal <taner@adap.com>"]
